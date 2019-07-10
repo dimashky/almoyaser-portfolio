@@ -638,7 +638,7 @@ h6 {
 
 #services .icon {
   position: absolute;
-  right: -10px;
+  right: 3px;
   top: calc(50% - 32px);
 }
 
@@ -1209,7 +1209,7 @@ h6 {
 }
 
 #contact .form button[type="submit"] {
-  background: #0089c6;
+  background: #454955;
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
@@ -1218,7 +1218,7 @@ h6 {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #0067d5;
+  background: #0089c6;
   cursor: pointer;
 }
 
